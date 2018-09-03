@@ -9,6 +9,13 @@
 
 ### Requisitos
 
-Para correr el tp hay que instalar pandas. Se debe tener el set de datos provisto por la materia en un directorio anterior al de este repositorio.
+Se debe tener instalado las librerias pandas y numpy. Usando pip se debe ejecutar el siguiente comando
+
+```sh
+$ pip install pandas
+$ pip install numpy
+```
+
+Se debe tener el set de datos provisto por la materia en un directorio anterior al de este repositorio.
 
 El set de datos se encuentra en este [link](https://drive.google.com/file/d/1gUddcLLujjFfwZslypUv1LESTM6KiwJn/view)
