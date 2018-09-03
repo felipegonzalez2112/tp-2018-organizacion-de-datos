@@ -1,4 +1,4 @@
-# 75.08 Organizacion de Datos
+# 75.06 Organizacion de Datos
 ## Tp 2018 Segundo Cuatrimestre 
 
 ### Integrantes
