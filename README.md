@@ -14,6 +14,7 @@ Se debe tener instalado las librerias pandas y numpy. Usando pip se debe ejecuta
 ```sh
 $ pip install pandas
 $ pip install numpy
+$ pip install matplotlib
 ```
 
 Se debe tener el set de datos provisto por la materia en un directorio anterior al de este repositorio.
