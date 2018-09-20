@@ -15,6 +15,7 @@ Se debe tener instalado las librerias pandas y numpy. Usando pip se debe ejecuta
 $ pip install pandas
 $ pip install numpy
 $ pip install matplotlib
+$ pip install wordcloud
 ```
 
 Se debe tener el set de datos provisto por la materia en un directorio anterior al de este repositorio.
