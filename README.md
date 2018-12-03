@@ -21,4 +21,6 @@ Se debe tener el set de datos provisto por la materia en un directorio anterior 
 
 El set de datos se encuentra en este [link](https://drive.google.com/file/d/1gUddcLLujjFfwZslypUv1LESTM6KiwJn/view)
 
-Link de informe: https://docs.google.com/document/d/1jjLJ6R8c3VQS3mdvA08SN8AhqPrzDC52iCh1YCiI4Yk/edit?usp=sharing
+Link de informe TP1: https://docs.google.com/document/d/1jjLJ6R8c3VQS3mdvA08SN8AhqPrzDC52iCh1YCiI4Yk/edit?usp=sharing
+
+Link de informe TP2: https://docs.google.com/document/d/1nVyk4x1vX30KiJuhW1Y62tI6qmiJuDds9wPijTSYbJY/edit?usp=sharing
